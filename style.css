@@ -1,0 +1,65 @@
+.img-circle { display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+	border: 1px solid #ddd;
+  border-radius: 50%;
+  padding: 5px;
+  width: 150px;}
+
+body {
+	background-color: lightgray;
+	text-align: center 
+	font-size: 20px;
+	font-family: Arial;
+}
+
+h1{text-align: center;
+font-family: 'Lilita One', cursive; }
+
+h2 {
+	font-family: 'Lilita One', cursive;
+color:blue;
+text-align: center 
+}
+
+
+a {text-decoration: none;}
+p {font-family: 'Nunito', sans-serif;}
+
+   div {        background-color: white;
+    padding: 25px;
+    margin: 10px 10px;
+    text-align: center;
+    box-shadow: 10px 15px 50px;} 
+
+.container {margin: 50px;
+background-color: lightblue;}
+
+.button-red {display: block;
+    width: 100px;
+    height: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 24px;
+    padding: 4px 4px;
+    border-radius: 50%;
+    background-color: #f44336;
+    border: 2px solid;
+    border-color: black;}
+
+  .follow-me li {
+  	display: inline;
+  	font-size: 50px;
+  }
+  .follow-me {
+  	margin: 50px;
+padding-left: 0;
+  	list-style: none;}
+
+.textblock {margin: 50px;}
+
+.twoblocks {display: inline;}
+
+
+@media (max-width: 720px)
